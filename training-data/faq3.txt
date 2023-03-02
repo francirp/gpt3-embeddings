@@ -1,0 +1,80 @@
+<section class="faq-block-container faq">
+  <h2>Mattresses</h2>
+  <ul>
+      <li class="accordion-link question">
+        <h3>Do the beds come with mattresses?</h3>
+        <div class="accordion-content">
+          <p></p><p>None of our beds automatically ship with mattresses, but we do sell our own custom made memory foam mattresses that you can purchase with your bed. Mattresses can be added to your order as additional accessories while you’re building your bed on the individual product pages. <a href="https://adultbunkbeds.com/mattress" title="Mattresses">Click here to learn more about our mattresses.</a></p>
+<p></p>
+        </div>
+      </li>
+      <li class="accordion-link question">
+        <h3>Do the beds require a special type of mattress?</h3>
+        <div class="accordion-content">
+          <p></p><p>No. You can use most commercially available innerspring mattresses. If you have a memory foam mattress, you will need to add a solid surface to keep the mattress from sinking between the slats. We can include a 1/8” thick masonite board with your order upon request. The cost for this is $95 for one board, $165 for two, or $260 for three.</p>
+
+<p>Alternatively, we can provide extra slats with less than 3” of space between them that can support a memory foam mattress for $95 (per sleeping platform). Please request in the notes at checkout.</p>
+<p></p>
+        </div>
+      </li>
+      <li class="accordion-link question">
+        <h3>Will I need a box spring?</h3>
+        <div class="accordion-content">
+          <p></p><p>Box springs are not necessary on our beds. In fact, we recommend <em>not</em> using them, since they will just waste valuable headspace on loft beds and top bunks.</p>
+<p></p>
+        </div>
+      </li>
+      <li class="accordion-link question">
+        <h3>How are mattresses supported on the beds?</h3>
+        <div class="accordion-content">
+          <p></p><p>Mattresses are supported by incredibly durable 2x4” and 2x8” wooden slats. For memory foam mattresses — or other mattresses that require a solid surface — we can provide a piece of pre-cut masonite for $95 per sleeping platform or add extras slats for $95 per sleeping platform. You can request either of these options in the notes section during checkout</p>
+<p></p>
+        </div>
+      </li>
+      <li class="accordion-link question">
+        <h3>What are the standard mattress dimensions?</h3>
+        <div class="accordion-content">
+          <p></p><ul>
+  <li>Twin: 39”x75”</li>
+  <li>Twin XL: 39”x80”</li>
+  <li>Full: 54”x75”</li>
+  <li>Full XL: 54”x80”</li>
+  <li>Queen: 60”x80”</li>
+  <li>King: 76”x80”</li>
+  <li>California King: 72”x84”</li>
+  <li>Wyoming King: 84”x84”</li>
+  <li>Alaskan King: 108”x108”</li>
+</ul>
+<p></p>
+        </div>
+      </li>
+      <li class="accordion-link question">
+        <h3>Is there any restriction on the thickness of mattresses that can be used?</h3>
+        <div class="accordion-content">
+          <p></p><p>For our loft and bunk beds, we strongly recommend mattresses with a thickness somewhere between 8 and 12 inches. If you want to use a thicker mattress, a special side rail will be needed that you can order for an additional fee. Any mattress thickness will work with our Platform Beds.</p>
+<p></p>
+        </div>
+      </li>
+      <li class="accordion-link question">
+        <h3>Can I order a mattress without also ordering a bed frame?</h3>
+        <div class="accordion-content">
+          <p></p><p>Yes. Mattresses are sold separately on our website by visiting <a href="https://adultbunkbeds.com/mattress" title="Custom Made Mattresses">this Web page</a>.</p>
+<p></p>
+        </div>
+      </li>
+      <li class="accordion-link question">
+        <h3>Can your mattresses be ordered with Rush delivery?</h3>
+        <div class="accordion-content">
+          <p></p><p>You can add a mattress (or mattresses) to your expedited order, but due to the required manufacturing timeline, it will have to be shipped out and delivered separately from the bed frame.</p>
+<p></p>
+        </div>
+      </li>
+      <li class="accordion-link question">
+        <h3>Do you offer oversized mattresses?</h3>
+        <div class="accordion-content">
+          <p></p><p>Unfortunately, we cannot offer oversized mattresses (i.e., anything larger than a standard king or California king) at this time. If you’re interested in buying an oversized bed frame like an <a href="https://adultbunkbeds.com/standard-beds/alaskan-king-bed" title="Alaskan King Bed">Alaskan King Bed</a>, we have compiled a list of resources to help you find one online. <a href="https://adultbunkbeds.com/blog/what-is-an-alaskan-king-bed" title="What is an Alaskan King Bed (and Why Would I Want One)?">Click here</a> to go to the blog post that includes a links to various manufacturers that offer oversized mattresses.</p>
+<p></p>
+        </div>
+      </li>
+  </ul>
+</section>

@@ -1,6 +1,7 @@
-require 'dotenv'
-require 'ruby/openai'
-require 'csv'
+# BUNDLER
+# require 'rubygems'
+require 'bundler/setup'
+Bundler.require(:default)
 require 'cosine_similarity'
 
 Dotenv.load()
@@ -29,7 +30,7 @@ end
 index_of_max = similarity_array.index(similarity_array.max)
 original_text = ""
 
-CSV.foreach("embeddings.csv", headers: true).with_index(index_of_max) do |row, rowno|
+CSV.foreach("embeddings.csv", headers: true).with_index do |row, rowno|
   if rowno == index_of_max
     original_text = row['text']
   end

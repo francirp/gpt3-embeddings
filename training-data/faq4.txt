@@ -1,0 +1,24 @@
+<div class="text-block wysiwyg-formatting">
+    <h2></h2>
+    <h2 id="free-shipping">Free Shipping</h2>
+<p>We offer free shipping on most orders in the contiguous United States. Shipping to Alaska, Hawaii, and Puerto Rico is also available for an additional fee. Due to recent increases in freight costs, orders to Oregon and Washington State are also subject to additional shipping fees.</p>
+
+<h2 id="return-policy">Return Policy</h2>
+<p>We offer a 60-day risk free trial with a full refund for returned items, excluding the cost of shipping and handling to receive the bed at our factory. Please note that certain items and orders are <strong>non-refundable</strong>. This includes:</p>
+
+<ul>
+  <li>Orders containing 2 or more beds</li>
+  <li>Beds built to a custom height, width, or length</li>
+  <li>Beds with the following accessories: trundles, desks, curtains, and fire poles</li>
+  <li>Stained accessories</li>
+  <li>Triple Bunk Beds</li>
+</ul>
+
+<p>In addition, our expedited Rush shipping fee is non-refundable if you decide to return the bed.</p>
+
+<p>Please send your returns to the following address:</p>
+
+<p>RPF Manufacturing Co. LLC<br>
+ATTN: Returns Dept.<br>
+585 Swailes Rd<br>
+Troy, OH 45373<br></p>
